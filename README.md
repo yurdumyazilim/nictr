@@ -12,7 +12,7 @@ otomatize edilmesini sağlamaktır.
 4. Domain DNS Bilgilerini Alma
 5. Domain DNS'lerini Güncelleme
 
-## Eksiller
+## Eksikler
 1. Yeni domain kaydı (belge süreçleri ve CAPTCHA nedeni ile sonraya bırakıldı)
 2. Belge gönderimi ve takibi
 3. Sorumlu kodu işlemleri
