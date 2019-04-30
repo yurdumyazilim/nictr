@@ -1,0 +1,8 @@
+
+#IDE Files
+.DS_Store
+.settings
+.buildpath
+.project
+*.vscode
+*.code-workspace
